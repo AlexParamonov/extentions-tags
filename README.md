@@ -1,6 +1,6 @@
 Extentions
 ==========
-[![Build Status](https://secure.travis-ci.org/AlexParamonov/extentions-tags.png)](http://travis-ci.org/AlexParamonov/extentions-tags)
+[![Build Status](https://travis-ci.org/AlexParamonov/extentions-tags.png?branch=master)](http://travis-ci.org/AlexParamonov/extentions-tags)
 [![Gemnasium Build Status](https://gemnasium.com/AlexParamonov/extentions-tags.png)](http://gemnasium.com/AlexParamonov/extentions-tags)  
 
 Tags functionality
