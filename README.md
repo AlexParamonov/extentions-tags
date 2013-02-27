@@ -1,9 +1,9 @@
 Extentions
 ==========
-[![Build Status](https://secure.travis-ci.org/AlexParamonov/extentions.png)](http://travis-ci.org/AlexParamonov/extentions)
-[![Gemnasium Build Status](https://gemnasium.com/AlexParamonov/extentions.png)](http://gemnasium.com/AlexParamonov/extentions)  
+[![Build Status](https://secure.travis-ci.org/AlexParamonov/extentions-tags.png)](http://travis-ci.org/AlexParamonov/extentions-tags)
+[![Gemnasium Build Status](https://gemnasium.com/AlexParamonov/extentions-tags.png)](http://gemnasium.com/AlexParamonov/extentions-tags)  
 
-Allows to create an isolated functionality and plug it into the application
+Tags functionality
 
 Contents
 ---------
@@ -18,7 +18,7 @@ Installation
 Add this line to your application's Gemfile:
 
 ``` ruby
-gem 'extentions'
+gem 'extentions-tags'
 ```
 
 And then execute:
@@ -30,12 +30,12 @@ bundle
 Or install it yourself as:
 
 ``` sh
-gem install extentions
+gem install extentions-tags
 ```
 
 Requirements
 ------------
-none
+extentions
 
 rspec2 for testing
 
@@ -48,11 +48,11 @@ tested with Ruby
 * rbx-19mode
 * ruby-head
 
-see [build history](http://travis-ci.org/#!/AlexParamonov/extentions/builds)
+see [build history](http://travis-ci.org/#!/AlexParamonov/extentions-tags/builds)
 
 Contributing
 -------------
-1. Fork repository [AlexParamonov/extentions](https://github.com/AlexParamonov/extentions)
+1. Fork repository [AlexParamonov/extentions-tags](https://github.com/AlexParamonov/extentions-tags)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -60,5 +60,5 @@ Contributing
 
 Copyright
 ---------
-Copyright © 2012 Alexander Paramonov.
+Copyright © 2013 Alexander Paramonov.
 Released under the MIT License. See the LICENSE file for further details.
