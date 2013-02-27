@@ -1,19 +1,10 @@
 *.gem
 *.rbc
-.bundle
-.config
-.yardoc
+/.bundle
+
 Gemfile.lock
-InstalledFiles
-_yardoc
-/coverage
-doc/
 /pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
+/tmp
 /tags
 
 ## generic files to ignore
