@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem "extentions"
+gem "extentions", "~> 0.1.0"
